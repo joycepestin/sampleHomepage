@@ -1,0 +1,114 @@
+
+.header-image{
+    width: 100%;
+    height: auto;
+}
+
+.container-fluid{
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+}
+.container-fluid .a:hover .a:active{
+    color:  #efc011;
+    background-color: none;
+}
+
+.container{
+    display: grid;
+}
+
+.hm-container{
+    margin-top: 3%;
+    margin-right: 20%;
+}
+
+.row1{
+    background-color: #efc011;
+    font-family: 'Raleway', sans-serif;
+    
+}
+
+.row1 .row1-col1{
+
+    background-color: violet;
+    height: 200px;
+   
+}
+
+.row1 .row1-col2{
+
+    background-color: aquamarine;
+    height: 200px;
+}
+
+.row2{
+    background-color: #efc011;
+    font-family: 'Raleway', sans-serif;
+}
+
+.row2 .row2-col1{
+
+    background-color: wheat;
+    height: 200px;
+}
+
+.row2 .row2-col1 .row2-p1{
+    font-size: 50px;
+
+}
+
+.row2 .row2-col2{
+
+    background-color: aqua;
+    height: 200px;
+}
+
+.footer{
+    margin-top: 5%;
+    width: auto;
+    height: 100px;
+    background-color: #002e5d;
+}
+
+.footer .escolario{
+
+    width: auto;
+    height: 100%;
+    margin-top: 0.5%;
+    
+}
+
+.footer .fb{
+    width: auto;
+    height: 20px;
+}
+
+.footer .email{
+    width: auto;
+    height: 18.3px;
+    margin-left: 4px;
+}
+
+.footer .becalogo{
+    width: auto;
+    height: 80%;
+    margin-left: 60%;
+}
+
+.footer .p{
+    color: #000;
+    width: auto;
+    height: 100%;
+}
+
+.footer .orgthrust{
+    width: auto;
+    height: 100%;
+    margin-left: 85%;
+    margin-top: -9%;
+}
+
+.footer .footerlogo{
+    width: 100%;
+    height: auto;
+}
